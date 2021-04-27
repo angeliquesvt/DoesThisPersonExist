@@ -1,0 +1,39 @@
+#Authentification
+Authentification/node_modules
+Authentification/package-lock.json
+Authentification/data/initdb/data
+.idea
+
+#Front
+# dependencies
+Front/node_modules
+Front/.pnp
+Front/.pnp.js
+# next.js
+Front/.next/
+Front/out/
+# production
+Front/build
+# misc
+Front/.DS_Store
+Front/*.pem
+# debug
+Front/npm-debug.log*
+Front/yarn-debug.log*
+Front/yarn-error.log*
+# local env files
+Front/.env.local
+Front/.env.development.local
+Front/.env.test.local
+Front/.env.production.local
+# vercel
+Front/.vercel
+Front/package.lock.json
+
+Profil/node_modules
+Profil/package-lock.json
+Profil/docker/data/db
+
+Profil/docker/data/db
+
+Faces/__pycache__
